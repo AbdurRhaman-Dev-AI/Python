@@ -1,11 +1,11 @@
-# def goodok(name, ending):  # # hear we see the name argument and the ending aregument on the function
-#     print("Gay", name)
-#     print(ending)
+def goodok(name, ending):  # # hear we see the name argument and the ending aregument on the function
+    print("Gay", name)
+    print(ending)
 
-# goodok("ok", "Good day")
-# goodok("no", "Good day")
-# goodok("He he", "Good day")
-# goodok("yes", "Good day")
+goodok("ok", "Good day")
+goodok("no", "Good day")
+goodok("He he", "Good day")
+goodok("yes", "Good day")
 
 
 def goofy(name, ending):  # # hear we argue the name and the ending argument on the function
@@ -15,3 +15,11 @@ def goofy(name, ending):  # # hear we argue the name and the ending argument on 
 
 a = goofy("Marin", ("ok bye"))
 print(a)
+
+# # in hear use the aregumanets on functions by calling the function
+def puffy(name, ending):
+    print("Ohaiyo", name)
+    print(ending)
+    return "b"
+
+b = puffy("Didler san", "jaa mata")
