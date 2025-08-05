@@ -1,0 +1,26 @@
+# #  wear we are making a small game that you give a choice and compurer give a choice so if you give same choise its from django.utils.translation import ugettext_lazy as _ 
+"""
+1 for snake
+2 for water
+0 for gun
+"""
+"""
+* if you == computer:
+    print("Tie")
+*  if you got gun and computer got water
+    you lose
+*   if you got snake and computer got gun
+    you lose
+*   if you got snake and computer got water
+    you lose
+*   if you got gun and computer got snake
+    you win
+*   if you got water and computer got gun
+    you win
+*   if computer got gun and you got water
+    you win
+*   if computer got snake and you got water
+    you win
+*  if you got water and computer got snake
+    you win
+"""
