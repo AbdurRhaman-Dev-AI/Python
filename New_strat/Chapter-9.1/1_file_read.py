@@ -8,7 +8,7 @@
 
 # #  hear we reaad the file more efficiently
 
-f = open("file.txt","r")
+f = open("file.txt","r")  # # we open this file in (r)read mode
 data = f.read()
 print(data)
 f.close()
