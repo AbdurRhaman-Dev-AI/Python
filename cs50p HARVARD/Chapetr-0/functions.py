@@ -1,7 +1,13 @@
-def hello(X = "World"):
-    print("Hello", X)
+# def hello():
+#     print("Hello")
+
+# name = input("Enter your name: ")
+# hello()
+# print(name)
 
 
-hello()
+def hi(to):
+    print("Hi", to)
+
 name = input("Enter your name: ")
-hello(name)
+hi(name)
