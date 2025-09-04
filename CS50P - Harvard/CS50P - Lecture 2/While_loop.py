@@ -7,5 +7,5 @@
 
 x = int(input("Number: "))
 while x > 0:
-    print("gay")
+    print("hay")
     x = x - 1
