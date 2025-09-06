@@ -1,7 +1,7 @@
 import random
 
-cards = ["Nvidia", "AMD", "Intel"]
-random.shuffle(cards)
-# print(cards[0])
-for card in cards:
-    print(card)
+GPU = ["Nvidia", "AMD", "Intel"]
+random.shuffle(GPU)
+# print(GPU[0])
+for gpu in GPU:
+    print(gpu)
