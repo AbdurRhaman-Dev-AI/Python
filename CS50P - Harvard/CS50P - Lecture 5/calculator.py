@@ -5,4 +5,6 @@ def main():
 def square(n):
     return n * n
 
-main()
+
+if __name__ == "__main__":
+    main()
