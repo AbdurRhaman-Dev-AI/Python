@@ -1,3 +1,6 @@
+# # in this code we use sorted() function to list the names in small to large name
+
+
 names = []
 
 with open("names.txt") as file:
