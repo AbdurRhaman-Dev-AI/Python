@@ -1,4 +1,4 @@
-# # in this code we are use sorted() function split name and plase top to botom upsite down
+# # in this code we are use sorted() function split name and plase top to botom upsite down like A-Z
 students = []
 
 with open("student.csv") as file:
