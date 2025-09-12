@@ -1,3 +1,6 @@
+# # we use a dictionary to store student data
+# student = {}
+
 students = []
 
 with open("students.csv") as file:
